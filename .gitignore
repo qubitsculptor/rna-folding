@@ -1,0 +1,16 @@
+# Ignore data files
+data/
+
+# Ignore Python virtual environment
+venv/
+
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+
+# OS and IDE files
+.DS_Store
+*.swp
+.idea/
+.vscode/
